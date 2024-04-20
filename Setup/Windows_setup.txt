@@ -1,0 +1,40 @@
+1. Install Git for Windows:
+    Download and install Git from the official website: https://git-scm.com/download/win
+
+2. Install pyenv:
+    pyenv is not officially supported on Windows. Instead, you can use pyenv-win, which provides similar functionality.
+    - Visit the pyenv-win GitHub repository: https://github.com/pyenv-win/pyenv-win
+    - Follow the instructions there to download and install pyenv-win.
+
+3. Install Python Version 3.11.0:
+    After installing pyenv-win, you can install Python 3.11.0 using the following command in the command prompt:
+    pyenv install 3.11.0
+
+4. Clone your repository:
+    Open Command Prompt and navigate to the directory where you want to clone your repository.
+    Clone your repository using the following command:
+    git clone https://huggingface.co/spaces/Slfagrouche/KitchenTeacher
+
+5. Navigate to the cloned repository folder:
+    Use the cd command to navigate to the folder:
+    cd KitchenTeacher
+
+6. Use the installed Python version in the cloned repository folder:
+    Set the Python version for the cloned repository folder using the following command:
+    pyenv local 3.11.0
+
+7. Create a virtual environment in the cloned repository folder:
+    Create a virtual environment using the following command:
+    python -m venv .kitchen-teacher-venv
+
+8. Activate the virtual environment:
+    Activate the virtual environment using the following command:
+    .kitchen-teacher-venv\Scripts\activate
+
+9. Install the dependencies listed in the requirements.txt file:
+    Use pip to install the dependencies:
+    pip install -r requirements.txt
+
+10. Run your Gradio application:
+    Execute your Gradio application script using the following command:
+    python your_gradio_script.py
