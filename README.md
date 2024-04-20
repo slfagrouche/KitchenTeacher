@@ -62,7 +62,7 @@ Contributions are welcome! If you'd like to contribute to KitchenTeacher, please
 
 ## License
 
-This project is licensed under the [MIT License]([LICENSE](https://github.com/slfagrouche/KitchenTeacher/blob/main/LICENSE)) - Hugging Face.
+This project is licensed under the [MIT License](https://github.com/slfagrouche/KitchenTeacher/blob/main/LICENSE) - Hugging Face.
 
 ## Acknowledgements
 
