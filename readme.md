@@ -35,6 +35,8 @@ To run KitchenTeacher locally, follow these steps:
    python your_gradio_script.py
    ```
 
+   Or refer to [setup instructions](/workspaces/KitchenTeacher/Setup) for more details on setting up KitchenTeacher on Windows or macOS.
+
 
 ## Usage
 
@@ -44,11 +46,11 @@ To run KitchenTeacher locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to KitchenTeacher, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+Contributions are welcome! If you'd like to contribute to KitchenTeacher, please feel free!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE) - Hugging Face.
 
 ## Acknowledgements
 
@@ -58,8 +60,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For any questions or issues, please [open an issue](https://github.com/your-username/KitchenTeacher/issues) on GitHub.
+For any questions or issues, please [open an issue](https://github.com/slfagrouche/KitchenTeacher/issues) on GitHub.
 
 ---
 
-Feel free to customize this README to better fit your project's specifics and add any additional information you think is relevant. Let me know if you need further assistance!
